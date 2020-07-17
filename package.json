@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "react-native-map-gd": "file:./react-native-map-gd",
+    "react-native-navi-3d-map-gd": "file:./react-native-navi-3d-map-gd",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.7.0",
     "@react-navigation/stack": "^5.7.0",

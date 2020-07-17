@@ -3,6 +3,8 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
+pod 'react-native-map-gd', :path => '../react-native-map-gd/ios'
+
 target 'MapGaoDeDemo' do
   config = use_native_modules!
 
