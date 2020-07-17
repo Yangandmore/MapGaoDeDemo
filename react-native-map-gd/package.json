@@ -1,0 +1,24 @@
+
+{
+  "name": "react-native-map-gd",
+  "version": "1.0.0",
+  "description": "高德地图组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Yangandmore",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "0.59.0",
+    "react": "16.6.3",
+    "react-native": "0.58.4",
+		"prop-types": ">=15.0.0"
+  }
+}
