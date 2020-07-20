@@ -5,7 +5,6 @@ import {
 	Picker,
 	SafeAreaView
 } from 'react-native';
-// import { GAMapView } from 'react-native-maps-ly';
 import { GDMapView } from 'react-native-navi-3d-map-gd';
 
 
